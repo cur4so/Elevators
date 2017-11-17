@@ -1,0 +1,10 @@
+{
+  "name": "elevator-app-example",
+  "version": "1.0.0",
+  "description": "Example of multiple 1-button elevators simulation",
+  "repository": "https://github.com/cur4so/elevator",
+  "author": "Olga K",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
